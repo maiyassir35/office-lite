@@ -1,0 +1,165 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+
+@font-face {
+    font-family:KumbhSans-Bold;
+    src: url("../fount/KumbhSans-Bold.ttf");
+}
+@font-face {
+    font-family:KumbhSans-Regular;
+    src: url("../fount/KumbhSans-Regular.ttf");
+}
+.the-logo{
+   margin: 50px;
+   padding: 50px;
+}
+.the_text_in_header{
+    font-family:KumbhSans-Bold;
+    font-size: 40px; 
+    color: #333950;
+}
+.detalis{
+    font-family:KumbhSans-Regular ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 19px;
+    color: #747B95; 
+}
+button:hover{
+    background-color:rgb(0, 0, 104);
+}
+.Get_Started{
+    background-color: #5175FF;
+    font-size: 30px;
+   color: #FFFFFF;
+   border: none solid;
+   border: none;
+   border-radius:50px;
+   margin: 50px;
+   margin: 0px;
+  padding: 20px;
+}
+.the_bage-of-officelite{
+    margin: 50px;
+    padding: 50px; 
+    display: flex;
+    justify-content:space-between;
+}
+.the-three-boxs{
+    display: flex;
+    justify-content:space-between;
+}
+.Box_of_price:hover{
+    color:#FFFFFF;
+    background-color:#5175FF ;
+     
+}
+.Basic{
+    margin: 20px;
+    border: 20px;
+    font-family:KumbhSans-Bold ;
+    color: #333950;
+    font-size: 50px;
+
+}
+.free{
+   margin: 20px ,20 px, 0px,0px;
+    font-size: 50px;
+    font-family: KumbhSans-Bold;
+    color: #333950;
+    font-size: 50px;
+}
+.Up_to_5{
+   margin: 20px ,20 px, 0px,0px;
+    font-size: 20px;
+    font-family: KumbhSans-Bold;
+    color: #333950;
+    font-size: 20px;
+}
+.collaboration{
+    margin: 20px,20px,20px,0px;
+     padding: 20px;
+    font-family: KumbhSans-Regular;
+    color: #747B95;
+    font-size: 20px;
+}
+.GB{
+    margin: 20px,20px,10px,0px;
+    padding: 20px;
+   font-family: KumbhSans-Regular;
+   color: #747B95;
+   font-size: 20px;
+}
+.Great_security{
+    font-size: 20px;
+    margin: 20px,20px,20px,0px;
+    padding: 20px;
+   font-family: KumbhSans-Regular;
+   color: #747B95;
+}
+.Try_for_Free1:hover{
+        background-color:#FFFFFF;
+}
+.Try_for_Free1{
+   font-size: 30px;
+   background-color:#E4EAFF;
+   color: #5175FF;
+   border: none solid;
+   border-radius:50px;
+   border: none;
+   margin: 50px;
+   margin: 0px;
+  padding: 20px;
+}
+
+
+.Box_of_price
+{
+    text-align: center;
+    margin: 90px;
+    padding: 50px;
+    border: solid 3px;
+    border: none;
+    background-color:#FFFFFF;
+    border-radius: 10%;
+}.coming{
+    color:black;
+}
+.nov{
+    color: #5175FF;
+}
+.coming_nov2022{
+    font-family: KumbhSans-Bold;
+}
+.fotar1{
+    border: solid 3px;
+    border: none;
+    margin: 30px;
+    padding: 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #333950;
+}
+.boxes{
+    display: flex;
+    justify-content:space-between; 
+}
+.Last_boxes{
+    display: flex;
+    justify-content: space-around;
+
+}
+.Get_Started_end{
+    background-color: #5175FF;
+    font-size: 30px;
+   color: #FFFFFF;
+   border: none solid;
+   border: none;
+   border-radius:50px;
+    
+}
+
